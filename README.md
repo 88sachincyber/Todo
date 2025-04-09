@@ -44,4 +44,5 @@
 
 🤝 Contributing<br>
 Feel free to submit issues or pull requests. If you have suggestions or improvements, you're welcome!
+Thank you
 
